@@ -1,4 +1,4 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.smw filter=lfs diff=lfs merge=lfs -text
-*.vtp filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -binary
+*.pdf filter=lfs diff=lfs merge=lfs -binary
+*.smw filter=lfs diff=lfs merge=lfs -binary
+*.vtp filter=lfs diff=lfs merge=lfs -binary
