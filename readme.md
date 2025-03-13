@@ -1,6 +1,7 @@
 the young building requires configuration files. the structure is as follows:
 
-```{
+```
+{
     "strings":[
         {"name":"", "value":""}
     ],
@@ -10,7 +11,8 @@ the young building requires configuration files. the structure is as follows:
     "digitals":[
         {"name":"", "value":""}
     ]
-}```
+}
+```
 
 the color swatches used for the linking in the UI are as follows:
 
